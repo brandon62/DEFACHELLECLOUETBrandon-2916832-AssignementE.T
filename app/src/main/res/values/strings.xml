@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DEFACHELLE CLOUET Brandon - 2916832 - Assignement E.T</string>
+    <string name="str_add_bt">Add</string>
+    <string name="str_add_tx">Enter task here</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
